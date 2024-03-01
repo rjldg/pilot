@@ -14,5 +14,7 @@ int main(){
         cout << "This is another string of text" << endl;
     }
 
+    cout << "End of program." << endl;
+
     return 0;
 }
